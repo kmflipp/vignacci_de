@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Azienda Agricola Vignacci - Deutsch",
-    "currentPage": "ospitalita_turistica.html",
+    "name": "Azienda Agricola Vignacci",
+    "currentPage": "bottega_contadino.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,12 +26,9 @@
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/screenshot-128x67.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dsc-0008-128x85.png",
     "noImageResize": "",
-    "google-analytics": "",
-    "publishFtpPath": "public_html/de",
-    "publishType": "ftp",
-    "ftpLocation": "ftp://vignacci@ftp.vignacci.it:21"
+    "google-analytics": ""
   },
   "pages": {
     "main.html": {
@@ -41,8 +38,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "order": 4
+        "html_before": ""
       },
       "components": [
         {
@@ -84,8 +80,7 @@
     "home.html": {
       "settings": {
         "title": "",
-        "meta_descr": "",
-        "order": 1
+        "meta_descr": ""
       },
       "components": [
         {
@@ -161,7 +156,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-vignacci-224x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "/main.html",
+              "link": "main.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -172,7 +167,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Italiano</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ospitalita_turistica.html\">Ospitalità Turistica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bottega_contadino.html\">La Bottega del contadino</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#header3-h\">News</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#gallery2-1e\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#contacts2-g\">Dove siamo e come contattarci</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main.html\">English / Deutsch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ospitalita_turistica.html\">Ospitalità Turistica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bottega_contadino.html\">La Bottega del contadino</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#header3-h\">News</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#gallery2-1e\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#contacts2-g\">Dove siamo e come contattarci</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -819,8 +814,7 @@
     "bottega_contadino.html": {
       "settings": {
         "title": "",
-        "meta_descr": "",
-        "order": 2
+        "meta_descr": ""
       },
       "components": [
         {
@@ -897,7 +891,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-vignacci-224x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "/main.html",
+              "link": "main.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -908,7 +902,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Italiano</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main.html\">English / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1642,8 +1636,7 @@
     "ospitalita_turistica.html": {
       "settings": {
         "title": "",
-        "meta_descr": "",
-        "order": 3
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1720,7 +1713,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-vignacci-224x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "/main.html",
+              "link": "main.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1731,7 +1724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Italiano</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main.html\">English / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
